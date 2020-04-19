@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+camelcase = "*"
+fiona = "*"
+shapely = "*"
+pyproj = "*"
+geopy = "*"
+httplib2 = "*"
+begins = "*"
+requests = "*"
+
+[requires]
+python_version = "3.7"
